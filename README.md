@@ -91,5 +91,5 @@ Fluvio
 
 Pro Build
 
-[BFW]Simple Dynamic Clouds
+Simple Dynamic Clouds
 https://developer.oculus.com/downloads/package/oculus-utilities-for-unity-5/
