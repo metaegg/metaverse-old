@@ -1,3 +1,7 @@
+
+![image](https://user-images.githubusercontent.com/97986424/152596223-bf579cce-c583-4109-bfe2-b9b495d262b5.png)
+
+
 # Metaegg Metaverse
 This document describes the development and creation of the first Real Virtual World. Metaegg Metaverse will be a replica of the real universe. It will be developed using the best technologies available to overcome the current paradigm of the "Metaverse" and launch the user in a new era. What will be outlined is actually an idea, a project that we hope will soon become a reality. We believe it will be soon a reality, hoping that drawing a plot and describing what are the possibilities will encourage further progress and implementations.
 
@@ -16,6 +20,9 @@ Let's start from the correct definition of "Metaegg Metaverse": 3D  virtual envi
 - Crypto Currency inside Metaverse: Why not use Bitcoin or Ethereum directly? Despite many ads, still no Metaverse uses Crypto-currencies any kind to allow trade between users. This feature would instead make the platform unique and above all would involve the user more closely.
 
 - Decentralized architectures: Almost all platforms for virtual worlds are based on classic client-server architecture. Moving to a peer-to-peer system would have enormous advantages. JanusVR, for example, allows you to use the incredible ipfs (Inter-Planetary File System) for the fast recovery of different assets.
+
+![image](https://user-images.githubusercontent.com/97986424/152596275-f0221c32-38f3-4ba9-8470-5f3764104667.png)
+
 
 - Implementation of the Alfa version The software is currently only developed for Windows/Mobile Apps platform. The current Client system is based on SW:
 
