@@ -1,5 +1,4 @@
-
-                  ![image](https://user-images.githubusercontent.com/97986424/152596611-208d3900-3e62-4093-84dc-590e02d19a96.png)
+![image](https://user-images.githubusercontent.com/97986424/152596678-49851c5a-c284-4e08-a111-63439a064015.png)
 
 
 # Metaegg Metaverse
@@ -20,9 +19,6 @@ Let's start from the correct definition of "Metaegg Metaverse": 3D  virtual envi
 - Crypto Currency inside Metaverse: Why not use Bitcoin or Ethereum directly? Despite many ads, still no Metaverse uses Crypto-currencies any kind to allow trade between users. This feature would instead make the platform unique and above all would involve the user more closely.
 
 - Decentralized architectures: Almost all platforms for virtual worlds are based on classic client-server architecture. Moving to a peer-to-peer system would have enormous advantages. JanusVR, for example, allows you to use the incredible ipfs (Inter-Planetary File System) for the fast recovery of different assets.
-
-                   ![image](https://user-images.githubusercontent.com/97986424/152596275-f0221c32-38f3-4ba9-8470-5f3764104667.png)
-
 
 - Implementation of the Alfa version The software is currently only developed for Windows/Mobile Apps platform. The current Client system is based on SW:
 
