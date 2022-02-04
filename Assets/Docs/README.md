@@ -1,9 +1,5 @@
-# MayaVerse
+# Metaegg Metaverse
 MayaVerse is an experimental Metaverse - Immersive Virtual World
-
-## Useful links:
-Configuration git:
-[Link to file .gitignore](https://gist.github.com/Shogan/dad6786c58c5ad88e0ec)
 
 ## Open source Assets List ##
 
@@ -43,9 +39,3 @@ Configuration git:
 
 - [Liquid Volume](https://www.assetstore.unity3d.com/en/#!/content/70992)
 - [Particle Scaler Tool](https://www.assetstore.unity3d.com/en/#!/content/46503)
-
-## Tutorial used ##
-
-- [GAME ASSET TUTORIAL - Creating a Flag Using Unity 5 Cloth - Preview](https://www.youtube.com/watch?v=GiWD2PCzD3g)
-- [GAME ASSET TUTORIAL - How to Create a Cloth in Unity 5 (PART 1/2)](https://www.youtube.com/watch?v=sbiuwaJ6PT4)
-- [GAME ASSET TUTORIAL - How to Create a Cloth in Unity 5 (PART 2/2)](https://www.youtube.com/watch?v=UK8s7sowxiI)
