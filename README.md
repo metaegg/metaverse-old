@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/97986424/152596223-bf579cce-c583-4109-bfe2-b9b495d262b5.png)
+                  ![image](https://user-images.githubusercontent.com/97986424/152596611-208d3900-3e62-4093-84dc-590e02d19a96.png)
 
 
 # Metaegg Metaverse
@@ -21,7 +21,7 @@ Let's start from the correct definition of "Metaegg Metaverse": 3D  virtual envi
 
 - Decentralized architectures: Almost all platforms for virtual worlds are based on classic client-server architecture. Moving to a peer-to-peer system would have enormous advantages. JanusVR, for example, allows you to use the incredible ipfs (Inter-Planetary File System) for the fast recovery of different assets.
 
-![image](https://user-images.githubusercontent.com/97986424/152596275-f0221c32-38f3-4ba9-8470-5f3764104667.png)
+                   ![image](https://user-images.githubusercontent.com/97986424/152596275-f0221c32-38f3-4ba9-8470-5f3764104667.png)
 
 
 - Implementation of the Alfa version The software is currently only developed for Windows/Mobile Apps platform. The current Client system is based on SW:
